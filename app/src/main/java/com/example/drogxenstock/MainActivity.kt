@@ -12,11 +12,11 @@ class MainActivity : AppCompatActivity() {
 
         val btnIngreso = findViewById<Button>(R.id.btnAceptar)
         btnIngreso.setOnClickListener {
-            ingresarLista()
+            ingresarMenu()
         }
     }
 
-    private fun ingresarLista(){
+    private fun ingresarMenu(){
         val intent = Intent(this, ActivityListaStock::class.java)
         startActivity(intent)
     }
