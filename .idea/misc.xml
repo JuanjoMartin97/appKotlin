@@ -3,25 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/juanj/AndroidStudioProjects/DrogXenStock/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1935" />
-        <entry key="..\:/Users/juanj/AndroidStudioProjects/DrogXenStock/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.184" />
-        <entry key="..\:/Users/juanj/AndroidStudioProjects/DrogXenStock/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.145703125" />
-        <entry key="..\:/Users/juanj/AndroidStudioProjects/DrogXenStock/app/src/main/res/layout-w936dp/activity_login.xml" value="0.2590277777777778" />
         <entry key="..\:/Users/juanj/AndroidStudioProjects/DrogXenStock/app/src/main/res/layout/activity_lista_stock.xml" value="0.33" />
-        <entry key="..\:/Users/juanj/AndroidStudioProjects/DrogXenStock/app/src/main/res/layout/activity_login.xml" value="0.3453703703703704" />
-        <entry key="..\:/Users/juanj/AndroidStudioProjects/DrogXenStock/app/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="..\:/Users/juanj/AndroidStudioProjects/DrogXenStock/app/src/main/res/layout/app_bar_menu.xml" value="0.22685185185185186" />
-        <entry key="..\:/Users/juanj/AndroidStudioProjects/DrogXenStock/app/src/main/res/layout/content_menu.xml" value="0.2574074074074074" />
-        <entry key="..\:/Users/juanj/AndroidStudioProjects/DrogXenStock/app/src/main/res/layout/fragment_gallery.xml" value="0.22685185185185186" />
-        <entry key="..\:/Users/juanj/AndroidStudioProjects/DrogXenStock/app/src/main/res/layout/fragment_home.xml" value="0.22685185185185186" />
-        <entry key="..\:/Users/juanj/AndroidStudioProjects/DrogXenStock/app/src/main/res/layout/fragment_medicamento.xml" value="0.3625" />
-        <entry key="..\:/Users/juanj/AndroidStudioProjects/DrogXenStock/app/src/main/res/layout/fragment_slideshow.xml" value="0.22685185185185186" />
-        <entry key="..\:/Users/juanj/AndroidStudioProjects/DrogXenStock/app/src/main/res/layout/menu_activity.xml" value="0.26481481481481484" />
-        <entry key="..\:/Users/juanj/AndroidStudioProjects/DrogXenStock/app/src/main/res/layout/nav_header_menu.xml" value="0.22685185185185186" />
-        <entry key="..\:/Users/juanj/AndroidStudioProjects/DrogXenStock/app/src/main/res/layout/producto_item.xml" value="0.3614583333333333" />
-        <entry key="..\:/Users/juanj/AndroidStudioProjects/DrogXenStock/app/src/main/res/menu/menu.xml" value="0.3625" />
-        <entry key="..\:/Users/juanj/AndroidStudioProjects/DrogXenStock/app/src/main/res/menu/menu_activity_drawer.xml" value="0.3625" />
-        <entry key="..\:/Users/juanj/AndroidStudioProjects/DrogXenStock/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.184" />
+        <entry key="..\:/Users/juanj/AndroidStudioProjects/DrogXenStock/app/src/main/res/layout/activity_main.xml" value="0.3484375" />
+        <entry key="..\:/Users/juanj/Desktop/appKotlin/app/src/main/res/layout/activity_add.xml" value="0.25" />
+        <entry key="..\:/Users/juanj/Desktop/appKotlin/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/juanj/Desktop/appKotlin/app/src/main/res/layout/producto_row.xml" value="0.20427350427350427" />
       </map>
     </option>
   </component>
