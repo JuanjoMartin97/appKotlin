@@ -3,11 +3,28 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Nico/Desktop/appKotlin/app/src/main/res/drawable/ic_menu_add_product.xml" value="0.1195" />
+        <entry key="..\:/Users/Nico/Desktop/appKotlin/app/src/main/res/drawable/ic_menu_camera.xml" value="0.196" />
+        <entry key="..\:/Users/Nico/Desktop/appKotlin/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.1195" />
+        <entry key="..\:/Users/Nico/Desktop/appKotlin/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.1195" />
+        <entry key="..\:/Users/Nico/Desktop/appKotlin/app/src/main/res/drawable/ic_menu_stock.xml" value="0.1195" />
+        <entry key="..\:/Users/Nico/Desktop/appKotlin/app/src/main/res/drawable/side_nav_bar.xml" value="0.1255" />
+        <entry key="..\:/Users/Nico/Desktop/appKotlin/app/src/main/res/layout/activity_add.xml" value="0.1707193515704154" />
+        <entry key="..\:/Users/Nico/Desktop/appKotlin/app/src/main/res/layout/activity_menu.xml" value="0.1" />
+        <entry key="..\:/Users/Nico/Desktop/appKotlin/app/src/main/res/layout/app_bar_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Nico/Desktop/appKotlin/app/src/main/res/layout/content_menu.xml" value="0.35688405797101447" />
+        <entry key="..\:/Users/Nico/Desktop/appKotlin/app/src/main/res/layout/fragment_add_product.xml" value="0.22" />
+        <entry key="..\:/Users/Nico/Desktop/appKotlin/app/src/main/res/layout/fragment_gallery.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Nico/Desktop/appKotlin/app/src/main/res/layout/fragment_home.xml" value="0.2128623188405797" />
+        <entry key="..\:/Users/Nico/Desktop/appKotlin/app/src/main/res/layout/fragment_slideshow.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Nico/Desktop/appKotlin/app/src/main/res/layout/nav_header_menu.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/Nico/Desktop/appKotlin/app/src/main/res/menu/activity_main_drawer.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Nico/Desktop/appKotlin/app/src/main/res/menu/activity_menu_drawer.xml" value="0.3401360544217687" />
+        <entry key="..\:/Users/Nico/Desktop/appKotlin/app/src/main/res/menu/menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Nico/Desktop/appKotlin/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/Nico/Desktop/appKotlin/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2345" />
         <entry key="..\:/Users/juanj/AndroidStudioProjects/DrogXenStock/app/src/main/res/layout/activity_lista_stock.xml" value="0.33" />
         <entry key="..\:/Users/juanj/AndroidStudioProjects/DrogXenStock/app/src/main/res/layout/activity_main.xml" value="0.3484375" />
-        <entry key="..\:/Users/juanj/Desktop/appKotlin/app/src/main/res/layout/activity_add.xml" value="0.25" />
-        <entry key="..\:/Users/juanj/Desktop/appKotlin/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/Users/juanj/Desktop/appKotlin/app/src/main/res/layout/producto_row.xml" value="0.20427350427350427" />
       </map>
     </option>
   </component>

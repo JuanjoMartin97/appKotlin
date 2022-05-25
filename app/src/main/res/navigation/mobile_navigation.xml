@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_stock">
+
+    <fragment
+        android:id="@+id/nav_stock"
+        android:name="com.example.drogxenstock.ui.stock.StockFragment"
+        android:label="@string/menu_stock"
+        tools:layout="@layout/fragment_stock" />
+
+    <fragment
+        android:id="@+id/nav_add_product"
+        android:name="com.example.drogxenstock.ui.addProduct.addProductFragment"
+        android:label="@string/menu_add_product"
+        tools:layout="@layout/fragment_add_product" />
+
+</navigation>

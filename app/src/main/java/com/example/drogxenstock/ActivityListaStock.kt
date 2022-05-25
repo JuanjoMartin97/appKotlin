@@ -20,11 +20,6 @@ class ActivityListaStock : AppCompatActivity() {
         btnAtras.setOnClickListener {
             finish()
         }
-        val addBtn = findViewById<Button>(R.id.add_button)
-        addBtn.setOnClickListener {
-            val intent = Intent(this,AddActivity::class.java)
-            startActivity(intent)
-        }
     }
     val productList = mutableListOf(
         Producto("Dexametasona 5mg Amp 5ml", "1234", ("05/2022"), 44332),

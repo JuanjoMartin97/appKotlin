@@ -14,22 +14,23 @@
         android:theme="@style/Theme.DrogXenStock"
         tools:targetApi="31">
         <activity
-            android:name=".AddActivity"
-            android:exported="false" />
-        <activity
-            android:name=".MainActivity"
-            android:exported="true">
-
+            android:name=".MenuActivity"
+            android:exported="true"
+            android:label="@string/title_activity_menu"
+            android:theme="@style/Theme.DrogXenStock.NoActionBar">
             <!--
-                Inside this activity you should be having below code for
-                intent filter which will check the default activity
-            -->
+    Inside this activity you should be having below code for
+    intent filter which will check the default activity
+-->
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"/>
         <activity
             android:name=".ActivityListaStock"
             android:exported="false" />
